@@ -1,0 +1,34 @@
+Method: OPL
+Number of Candidates: 3
+Number of total seats: 2
+Number of total ballots: 9
+Pike and party D gets 1 vote.
+Pike and party D gets 1 vote.
+Pike and party D gets 1 vote.
+Foster and party R gets 1 vote.
+Foster and party R gets 1 vote.
+Foster and party R gets 1 vote.
+John and party I gets 1 vote.
+John and party I gets 1 vote.
+John and party I gets 1 vote.
+-----------------------------------find winner process-----------------------------------
+Get Quota: 9 / 2 = 4
+R gets 0 seats.
+R has 3 ballots remaining,
+D gets 0 seats.
+D has 3 ballots remaining,
+I gets 0 seats.
+I has 3 ballots remaining,
+I gets 1 seat in remainder stage.
+R gets 1 seat in remainder stage.
+
+Party: I ------ Winners:  [John, 3] 
+
+Party: R ------ Winners:  [Foster, 3] 
+
+Party: D ------ Winners: 
+-----------------------------------Candidates summary-----------------------------------
+Candidates Pike has 3 votes.
+Candidates Foster has 3 votes.
+Candidates John has 3 votes.
+

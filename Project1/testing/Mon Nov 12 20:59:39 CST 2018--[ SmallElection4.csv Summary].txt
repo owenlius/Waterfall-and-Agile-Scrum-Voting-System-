@@ -1,0 +1,16 @@
+Method: OPL
+Number of Candidates: 6
+Number of total seats: 2
+Number of total ballots: 18
+
+Party: I ------ Winners:  [Gamma, 3] 
+
+Party: D ------ Winners:  [Theta, 3] 
+-----------------------------------Candidates summary-----------------------------------
+Candidates Pike has 3 votes.
+Candidates Foster has 3 votes.
+Candidates John has 3 votes.
+Candidates Pi has 3 votes.
+Candidates Theta has 3 votes.
+Candidates Gamma has 3 votes.
+

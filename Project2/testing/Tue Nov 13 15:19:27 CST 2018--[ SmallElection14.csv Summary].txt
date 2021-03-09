@@ -1,0 +1,6 @@
+Method: IR
+Number of Candidates: 4
+All candidates: Jack Kleinberg Joe Kleinberg Bob Kutchenber Dave Camp 
+Number of total ballots: 9
+-----------------------------------final winner -----------------------------------
+winner: Bob Kutchenber

@@ -1,0 +1,83 @@
+Method: OPL
+Number of Candidates: 7
+Number of total seats: 5
+Number of total ballots: 55
+Foster and party D gets 1 vote.
+Pike and party D gets 1 vote.
+Joe and party D gets 1 vote.
+Jones and party R gets 1 vote.
+Pike and party D gets 1 vote.
+Borg and party R gets 1 vote.
+Joe and party D gets 1 vote.
+Foster and party D gets 1 vote.
+Foster and party D gets 1 vote.
+Deutsch and party R gets 1 vote.
+Joe and party D gets 1 vote.
+Jones and party R gets 1 vote.
+Jones and party R gets 1 vote.
+Jones and party R gets 1 vote.
+Jones and party R gets 1 vote.
+Borg and party R gets 1 vote.
+Jones and party R gets 1 vote.
+Pike and party D gets 1 vote.
+Deutsch and party R gets 1 vote.
+Joe and party D gets 1 vote.
+Deutsch and party R gets 1 vote.
+Smith and party I gets 1 vote.
+Pike and party D gets 1 vote.
+Jones and party R gets 1 vote.
+Deutsch and party R gets 1 vote.
+Deutsch and party R gets 1 vote.
+Pike and party D gets 1 vote.
+Jones and party R gets 1 vote.
+Borg and party R gets 1 vote.
+Joe and party D gets 1 vote.
+Borg and party R gets 1 vote.
+Jones and party R gets 1 vote.
+Borg and party R gets 1 vote.
+Joe and party D gets 1 vote.
+Smith and party I gets 1 vote.
+Borg and party R gets 1 vote.
+Borg and party R gets 1 vote.
+Foster and party D gets 1 vote.
+Smith and party I gets 1 vote.
+Foster and party D gets 1 vote.
+Smith and party I gets 1 vote.
+Foster and party D gets 1 vote.
+Foster and party D gets 1 vote.
+Deutsch and party R gets 1 vote.
+Smith and party I gets 1 vote.
+Joe and party D gets 1 vote.
+Smith and party I gets 1 vote.
+Joe and party D gets 1 vote.
+Foster and party D gets 1 vote.
+Borg and party R gets 1 vote.
+Smith and party I gets 1 vote.
+Foster and party D gets 1 vote.
+Deutsch and party R gets 1 vote.
+Deutsch and party R gets 1 vote.
+Joe and party D gets 1 vote.
+-----------------------------------find winner process-----------------------------------
+Get Quota: 55 / 5 = 11
+R gets 2 seats.
+R has 3 ballots remaining,
+D gets 2 seats.
+D has 1 ballots remaining,
+I gets 0 seats.
+I has 7 ballots remaining,
+I gets 1 seat in remainder stage.
+
+Party: I ------ Winners:  [Smith, 7] 
+
+Party: R ------ Winners:  [Jones, 9]  [Borg, 8] 
+
+Party: D ------ Winners:  [Joe, 9]  [Foster, 9] 
+-----------------------------------Candidates summary-----------------------------------
+Candidates Pike has 5 votes.
+Candidates Foster has 9 votes.
+Candidates Deutsch has 8 votes.
+Candidates Borg has 8 votes.
+Candidates Jones has 9 votes.
+Candidates Smith has 7 votes.
+Candidates Joe has 9 votes.
+

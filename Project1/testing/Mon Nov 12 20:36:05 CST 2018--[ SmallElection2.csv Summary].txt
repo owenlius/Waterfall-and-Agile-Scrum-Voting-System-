@@ -1,0 +1,12 @@
+Method: OPL
+Number of Candidates: 2
+Number of total seats: 1
+Number of total ballots: 2
+
+Party: D ------ Winners:  [Pike, 1] 
+
+Party:  ------ Winners: 
+-----------------------------------Candidates summary-----------------------------------
+Candidates Pike has 1 votes.
+Candidates Foster has 1 votes.
+

@@ -1,0 +1,46 @@
+Method: OPL
+Number of Candidates: 6
+Number of total seats: 2
+Number of total ballots: 18
+Pike and party D gets 1 vote.
+Pike and party D gets 1 vote.
+Pike and party D gets 1 vote.
+Foster and party R gets 1 vote.
+Foster and party R gets 1 vote.
+Foster and party R gets 1 vote.
+John and party I gets 1 vote.
+John and party I gets 1 vote.
+John and party I gets 1 vote.
+Pi and party D gets 1 vote.
+Pi and party D gets 1 vote.
+Pi and party D gets 1 vote.
+Theta and party R gets 1 vote.
+Theta and party R gets 1 vote.
+Theta and party R gets 1 vote.
+Gamma and party I gets 1 vote.
+Gamma and party I gets 1 vote.
+Gamma and party I gets 1 vote.
+-----------------------------------find winner process-----------------------------------
+Get Quota: 18 / 2 = 9
+R gets 0 seats.
+R has 6 ballots remaining,
+D gets 0 seats.
+D has 6 ballots remaining,
+I gets 0 seats.
+I has 6 ballots remaining,
+I gets 1 seat in remainder stage.
+R gets 1 seat in remainder stage.
+
+Party: I ------ Winners:  [Gamma, 3] 
+
+Party: R ------ Winners:  [Theta, 3] 
+
+Party: D ------ Winners: 
+-----------------------------------Candidates summary-----------------------------------
+Candidates Pike has 3 votes.
+Candidates Foster has 3 votes.
+Candidates John has 3 votes.
+Candidates Pi has 3 votes.
+Candidates Theta has 3 votes.
+Candidates Gamma has 3 votes.
+

@@ -1,0 +1,21 @@
+Method: OPL
+Number of Candidates: 2
+Number of total seats: 1
+Number of total ballots: 2
+Foster and party  gets 1 vote.
+Pike and party D gets 1 vote.
+-----------------------------------find winner process-----------------------------------
+Get Quota: 2 / 1 = 2
+ gets 0 seats.
+ has 1 ballots remaining,
+D gets 0 seats.
+D has 1 ballots remaining,
+D gets 1 seat in remainder stage.
+
+Party: D ------ Winners:  [Pike, 1] 
+
+Party:  ------ Winners: 
+-----------------------------------Candidates summary-----------------------------------
+Candidates Pike has 1 votes.
+Candidates Foster has 1 votes.
+

@@ -1,0 +1,15 @@
+Method: OPL
+Number of Candidates: 3
+Number of total seats: 2
+Number of total ballots: 9
+
+Party: I ------ Winners:  [John, 3] 
+
+Party: R ------ Winners:  [Foster, 3] 
+
+Party: D ------ Winners: 
+-----------------------------------Candidates summary-----------------------------------
+Candidates Pike has 3 votes.
+Candidates Foster has 3 votes.
+Candidates John has 3 votes.
+

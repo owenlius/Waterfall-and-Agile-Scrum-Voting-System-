@@ -1,0 +1,13 @@
+Method: IR
+Number of Candidates: 2
+All candidates: Rosen ----  Kleinberg 
+Number of total ballots: 2
+The ballot number each candidate has:
+Rosen gets 1 votes.
+----  Kleinberg gets 1 votes.
+-----------------------------------find winner process-----------------------------------
+*******round: 1
+Rosen gets 1 votes, ballots are :0 
+----  Kleinberg gets 1 votes, ballots are :1 
+-----------------------------------final winner -----------------------------------
+winner: Rosen

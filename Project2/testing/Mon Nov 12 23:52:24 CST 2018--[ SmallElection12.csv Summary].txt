@@ -1,0 +1,6 @@
+Method: IR
+Number of Candidates: 2
+All candidates: Rosen ----  Kleinberg 
+Number of total ballots: 2
+-----------------------------------final winner -----------------------------------
+winner: Rosen

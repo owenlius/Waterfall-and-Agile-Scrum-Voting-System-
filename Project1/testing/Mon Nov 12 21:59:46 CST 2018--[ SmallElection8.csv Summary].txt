@@ -1,0 +1,19 @@
+Method: OPL
+Number of Candidates: 7
+Number of total seats: 5
+Number of total ballots: 100000
+
+Party: I ------ Winners:  [Smith, 14100] 
+
+Party: R ------ Winners:  [Borg, 14481]  [Deutsch, 14434] 
+
+Party: D ------ Winners:  [Joe, 14444]  [Foster, 14189] 
+-----------------------------------Candidates summary-----------------------------------
+Candidates Pike has 14110 votes.
+Candidates Foster has 14189 votes.
+Candidates Deutsch has 14434 votes.
+Candidates Borg has 14481 votes.
+Candidates Jones has 14242 votes.
+Candidates Smith has 14100 votes.
+Candidates Joe has 14444 votes.
+

@@ -1,0 +1,6 @@
+Method: IR
+Number of Candidates: 3
+All candidates: Jack Kleinberg Jack Kleinberg 
+Number of total ballots: 3
+-----------------------------------final winner -----------------------------------
+winner: Jack Kleinberg

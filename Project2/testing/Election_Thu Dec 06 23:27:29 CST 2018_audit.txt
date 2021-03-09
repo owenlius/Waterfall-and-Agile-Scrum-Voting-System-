@@ -1,0 +1,29 @@
+Method: IR
+Number of Candidates: 4
+All candidates: Jack Kleinberg Joe Kleinberg Bob Kutchenber Dave Camp 
+Number of total ballots: 9
+The ballot number each candidate has:
+Jack Kleinberg gets 2 votes.
+Joe Kleinberg gets 3 votes.
+Bob Kutchenber gets 1 votes.
+Dave Camp gets 1 votes.
+-----------------------------------find winner process-----------------------------------
+*******round: 1
+Jack Kleinberg gets 2 votes, ballots are :0 1 
+Joe Kleinberg gets 3 votes, ballots are :3 4 5 
+Bob Kutchenber gets 1 votes, ballots are :7 
+Dave Camp gets 1 votes, ballots are :8 
+Dave Camp has the least votes, his/her ballots go to the next candidate if he/she is still active.
+ballot id = 8 is redistributed to candidate Bob Kutchenber
+*******round: 2
+Jack Kleinberg gets 2 votes, ballots are :0 1 
+Joe Kleinberg gets 3 votes, ballots are :3 4 5 
+Bob Kutchenber gets 2 votes, ballots are :7 8 
+Jack Kleinberg has the least votes, his/her ballots go to the next candidate if he/she is still active.
+ballot id = 0 is redistributed to candidate Joe Kleinberg
+ballot id = 1 is redistributed to candidate Joe Kleinberg
+*******round: 3
+Joe Kleinberg gets 5 votes, ballots are :3 4 5 0 1 
+Bob Kutchenber gets 2 votes, ballots are :7 8 
+-----------------------------------final winner -----------------------------------
+winner: Joe Kleinberg

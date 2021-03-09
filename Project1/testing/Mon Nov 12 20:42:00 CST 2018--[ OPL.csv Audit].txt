@@ -1,0 +1,36 @@
+Method: OPL
+Number of Candidates: 6
+Number of total seats: 3
+Number of total ballots: 9
+Pike and party D gets 1 vote.
+Pike and party D gets 1 vote.
+Foster and party D gets 1 vote.
+Jones and party R gets 1 vote.
+Smith and party I gets 1 vote.
+Borg and party R gets 1 vote.
+Borg and party R gets 1 vote.
+Pike and party D gets 1 vote.
+Foster and party D gets 1 vote.
+-----------------------------------find winner process-----------------------------------
+Get Quota: 9 / 3 = 3
+R gets 1 seats.
+R has 0 ballots remaining,
+D gets 1 seats.
+D has 2 ballots remaining,
+I gets 0 seats.
+I has 1 ballots remaining,
+D gets 1 seat in remainder stage.
+
+Party: D ------ Winners:  [Pike, 3]  [Foster, 2] 
+
+Party: I ------ Winners: 
+
+Party: R ------ Winners:  [Borg, 2] 
+-----------------------------------Candidates summary-----------------------------------
+Candidates Pike has 3 votes.
+Candidates Foster has 2 votes.
+Candidates Deutsch has 0 votes.
+Candidates Borg has 2 votes.
+Candidates Jones has 1 votes.
+Candidates Smith has 1 votes.
+

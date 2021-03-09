@@ -1,0 +1,35 @@
+Method: IR
+Number of Candidates: 5
+All candidates: Rosen Kleinberg Chou Royce Tom 
+Number of total ballots: 9
+The ballot number each candidate has:
+Rosen gets 3 votes.
+Kleinberg gets 2 votes.
+Chou gets 3 votes.
+Royce gets 0 votes.
+Tom gets 1 votes.
+-----------------------------------find winner process-----------------------------------
+*******round: 1
+Rosen gets 3 votes, ballots are :0 1 2 
+Kleinberg gets 2 votes, ballots are :6 7 
+Chou gets 3 votes, ballots are :3 4 5 
+Royce gets 0 votes, ballots are :
+Tom gets 1 votes, ballots are :8 
+Royce has the least votes, his/her ballots go to the next candidate if he/she is still active.
+*******round: 2
+Rosen gets 3 votes, ballots are :0 1 2 
+Kleinberg gets 2 votes, ballots are :6 7 
+Chou gets 3 votes, ballots are :3 4 5 
+Tom gets 1 votes, ballots are :8 
+Tom has the least votes, his/her ballots go to the next candidate if he/she is still active.
+*******round: 3
+Rosen gets 3 votes, ballots are :0 1 2 
+Kleinberg gets 2 votes, ballots are :6 7 
+Chou gets 3 votes, ballots are :3 4 5 
+Kleinberg has the least votes, his/her ballots go to the next candidate if he/she is still active.
+ballot id = 7 is redistributed to candidate Rosen
+*******round: 4
+Rosen gets 4 votes, ballots are :0 1 2 7 
+Chou gets 3 votes, ballots are :3 4 5 
+-----------------------------------final winner -----------------------------------
+winner: Rosen

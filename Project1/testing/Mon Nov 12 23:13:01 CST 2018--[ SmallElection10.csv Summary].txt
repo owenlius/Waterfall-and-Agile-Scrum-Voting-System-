@@ -1,0 +1,6 @@
+Method: IR
+Number of Candidates: 4
+All candidates: Rosen Kleinberg Chou Royce 
+Number of total ballots: 100000
+-----------------------------------final winner -----------------------------------
+winner: Rosen
